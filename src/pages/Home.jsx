@@ -14,6 +14,8 @@ const Home = () => {
     getData();
   }, []);
 
+
+
   console.log(posts)
 
   return (

@@ -20,7 +20,7 @@ const Navigation = () => {
             </div>
         </div>
         <div className="fixed bottom-0 left-0 z-50 w-full bg-white border-t border-gray-200 md:p-10">
-            <div className="grid h-full max-w-lg grid-cols-4 mx-auto font-medium">
+            <div className="grid h-full max-w-lg grid-cols-5 mx-auto font-medium">
                 <Link to="/" type="button" className="inline-flex flex-col items-center justify-center px-5 hover:bg-gray-50 group">
                     <AiFillHome className="w-10 h-10 mb-1 text-black group-hover:text-blue-600 p-1"/>
                 </Link>
